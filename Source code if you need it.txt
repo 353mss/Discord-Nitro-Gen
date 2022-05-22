@@ -61,7 +61,6 @@ with open("Nitro Codes.txt") as file:
             print(f" Invalid | {nitro} ")
 
 
-print("Thank")
 print("Thanks For Using This Gen\n")
 print("Have Fun With your nitro!\n")
 
